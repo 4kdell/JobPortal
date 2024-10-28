@@ -1,1 +1,11 @@
-# JobPortal
+<h1># JobPortal</h1>
+<h3>1. Admin Module</h3>
+<P>The Admin Module serves as the backbone of the job portal, allowing administrators to oversee and manage the platform efficiently. Admins have control over user accounts, job listings, and system settings, ensuring a secure and streamlined experience for all users. Key responsibilities in this module include monitoring job listings, managing recruiter and jobseeker accounts, and handling platform analytics and reports to maintain quality and compliance. This module plays a crucial role in maintaining the portal's integrity and smooth operation.</P>
+
+<h3>2. Jobseeker Module</h3>
+<P>The Jobseeker Module is designed to help individuals looking for jobs connect with potential employers seamlessly. Jobseekers can create detailed profiles, upload resumes, and browse through job listings that match their skills and preferences. With features such as personalized job recommendations, application tracking, and the ability to communicate with recruiters, this module empowers jobseekers to manage their career journey effectively. Additionally, they can save jobs, set alerts for new opportunities, and receive feedback on their applications.</P>
+
+<h3>3. Job Recruiter Module</h3>
+<P>The Job Recruiter Module enables recruiters and hiring managers to post job vacancies, review applications, and connect with potential candidates. Recruiters can create job listings, set specific hiring requirements, and track applications through a streamlined dashboard. This module offers tools to screen, shortlist, and communicate with candidates, making it easier for recruiters to find the best talent efficiently. Additionally, recruiters can manage their company profile, review analytics on job post performance, and refine hiring strategies based on data insights.</P>
+<hr>
+<p>Each module is tailored to its user’s needs, working together to create a dynamic and user-friendly job portal.This Job Portal is an all-in-one platform designed to bridge the gap between jobseekers and employers, streamlining the hiring process for both parties while providing administrative oversight. It provides a structured, secure, and user-friendly environment that allows jobseekers to find meaningful opportunities and recruiters to discover and connect with qualified candidates efficiently</p>
